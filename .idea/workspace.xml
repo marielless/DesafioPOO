@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9cfcb3e-473c-40f4-bd43-f5dcee737f24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MeuAparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MeuNavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MeuReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ReprodutorMusical.java" afterDir="false" />
+    <list default="true" id="d9cfcb3e-473c-40f4-bd43-f5dcee737f24" name="Changes" comment="Criado desafio POO">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1717503573365</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criado desafio POO">
+      <created>1717504991650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717504991665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criado desafio POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado desafio POO" />
   </component>
 </project>
