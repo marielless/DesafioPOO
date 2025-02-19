@@ -9,7 +9,7 @@ public class MeuNavegadorInternet implements NavegadorInternet {
     }
 
     @Override
-    public void addNovaAba() {
+    public void adicionarNovaAba() {
         System.out.println("Adicionando nova aba.");
     }
 

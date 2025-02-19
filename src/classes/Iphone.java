@@ -18,7 +18,7 @@ public class Iphone {
 
         NavegadorInternet meuNavegador = new MeuNavegadorInternet();
         meuNavegador.exibirPagina("https://www.example.com");
-        meuNavegador.addNovaAba();
+        meuNavegador.adicionarNovaAba();
         meuNavegador.atualizarPagina();
     }
 }
